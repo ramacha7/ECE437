@@ -1,0 +1,4 @@
+Do we use LRU in direct mapping caches?
+How do we do LRU in 2 way associative cache?
+Difference between write allocate and write no allocate? And which one are we meant to do for this lab?
+How is the 32 bit counter meant to interact with our cache? Counting hits, but is that all?+
